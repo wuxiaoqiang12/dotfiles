@@ -40,6 +40,7 @@ brew cleanup
 
 caskapps=(
     alfred
+	adobe-creative-cloud
     cheatsheet
     dash
     google-chrome
