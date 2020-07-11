@@ -15,6 +15,7 @@ fi
 
 brew tap homebrew/versions
 brew tap ArmMbed/homebrew-formulae
+brew tap railwaycat/emacsmacport
 brew tap wuxiaoqiang12/QemuRpi3Hyp
 brew update
 brew upgrade
@@ -24,7 +25,9 @@ apps=(
 #    caskroom/cask/brew-cask
     cmake
     git
+	pandoc
     vim
+	emacs-mac --with-spacemacs-icon
     wget
     zsh
 	youtube-dl
