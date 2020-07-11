@@ -4,6 +4,7 @@ init:
 	ln -fs `pwd`/gdbinit	~/.gdbinit
 	ln -fs `pwd`/gdbinit-gef.py	~/.gdbinit-gef.py
 	ln -fs `pwd`/vimrc		~/.vimrc
+	ln -fs `pwd`/profile	~/.profile
 
 sync:
 	git pull
