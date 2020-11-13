@@ -24,6 +24,7 @@ brew upgrade
 apps=(
 #    caskroom/cask/brew-cask
     cmake
+	opam
     git
 	pandoc
     vim
@@ -33,6 +34,22 @@ apps=(
 	youtube-dl
     htop
     tree
+	proxychains-ng
+	googler
+	perl
+	unrar
+	bindfs
+	pkg-config
+	gettext
+	hg
+	darcs
+	graphviz
+	telnet
+	qemu
+	pixman
+	glib
+	pkg-config
+	ispell
 	armmbed/formulae/arm-none-eabi-gcc
 )
 
@@ -47,6 +64,8 @@ caskapps=(
 	adobe-creative-cloud
     cheatsheet
     dash
+	mark-text
+	Calibre
     google-chrome
     clion
     zotero
@@ -64,6 +83,8 @@ caskapps=(
 	eudic
 	typora
 	cmake
+	eul
+	ext2fuse
 	nutstore
 	baidunetdisk
 )
