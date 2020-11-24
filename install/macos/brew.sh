@@ -61,6 +61,7 @@ brew cleanup
 caskapps=(
     alfred
 	night-owl
+	mos
 	adobe-creative-cloud
     cheatsheet
     dash
